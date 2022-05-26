@@ -1,4 +1,4 @@
-let nCols = parseInt(prompt("Ingrese el número de columas (entre 1 y 12)"))
+let nCols = parseInt(prompt("Ingrese el número de columas"))
 let nRows = parseInt(prompt("Ingrese el número de filas"))
 
 //TODO: validar valores ingresados
